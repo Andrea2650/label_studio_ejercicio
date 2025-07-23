@@ -1,1 +1,1 @@
-"# label_studio_ejercicio2" 
+"# label_studio_ejercicio" 
